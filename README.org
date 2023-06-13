@@ -1,0 +1,10 @@
+* pounds
+
+Lisp block storage
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fjames86/pounds.git   |
+| commit  | 0a894b6  |
+| systems | pounds |
+|---------+-------------------------------------------|
+
